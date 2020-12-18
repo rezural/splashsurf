@@ -25,7 +25,7 @@ profiling = ["coarse-prof"]
 
 [dependencies]
 log = "0.4"
-nalgebra = "0.23"
+nalgebra = "0.21"
 num = "0.3"
 anyhow = "1.0"
 thiserror = "1.0"
